@@ -1,4 +1,4 @@
-print "test file"
+print "test scirpt"
 
 # clone the directory to your local machine
 # make your changes 
